@@ -1,0 +1,14 @@
+{
+  "name": "r_script_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "r-script": "git://github.com/Khamurdik/r-script.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
